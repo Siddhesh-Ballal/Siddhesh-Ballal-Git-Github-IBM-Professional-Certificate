@@ -10,3 +10,6 @@ simple_interest=$(( (principal * rate * time) / 100 ))
 
 # Display the result
 echo "Simple Interest: $simple_interest"
+
+#Additional Authors
+Siddhesh-Ballal
